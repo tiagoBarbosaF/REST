@@ -1,4 +1,3 @@
-﻿# REST projects
-***
+﻿# API client
 
-Repository destinated for projects and studies REST
+Serialize and deserialize GitHub repos
